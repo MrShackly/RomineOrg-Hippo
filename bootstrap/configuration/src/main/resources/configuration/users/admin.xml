@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:esv="http://www.onehippo.org/jcr/xmlimport" sv:name="admin" esv:merge="combine">
+  <sv:property sv:name="hipposys:passwordlastmodified" sv:type="Date">
+    <sv:value>2015-11-10T20:56:30.890-05:00</sv:value>
+  </sv:property>
+</sv:node>
