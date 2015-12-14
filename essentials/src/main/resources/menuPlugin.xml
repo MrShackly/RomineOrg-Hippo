@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <installerDocument>
     <name>menuPlugin</name>
+    <dateAdded>2015-12-13T19:55:17.030-05:00</dateAdded>
     <dateInstalled>2015-12-13T16:39:50.246-05:00</dateInstalled>
-    <installationState>onBoard</installationState>
+    <installationState>installed</installationState>
 </installerDocument>
